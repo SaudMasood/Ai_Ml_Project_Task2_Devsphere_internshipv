@@ -475,6 +475,3 @@ Artificial Intelligence & Machine Learning
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
 </p>
-```
-
-This version keeps the README focused on **your actual Week 2 AI and ML work**, while making it look polished and professional for the GitHub repository.
