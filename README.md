@@ -1,8 +1,5 @@
 # 🤖 AI/ML Project Task 2 — DevSphere Internship
 
-````markdown
-# 🤖 AI/ML Project Task 2 — DevSphere Internship
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevSphere+AI%2FML+Internship;Week+2+Task;Search+Algorithms+%7C+Data+Visualization;Python+%7C+Pandas+%7C+Matplotlib" alt="Typing SVG" />
 </p>
